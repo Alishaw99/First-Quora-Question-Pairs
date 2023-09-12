@@ -1,5 +1,5 @@
-# quora-question-pairs
-A NLP project to find weather given 2 questions are same are not semantically speaking.
+# The Quora Question Pair Similarity Problem
+##This is my first case study, so you can expect a beginner-friendly data analysis and model building. I have used only the classical machine learning models for this problem. However, working on this case study was a great learning experience for me. And in this blog, I will try to share with you as much as possible.
 
 Where else but Quora can a physicist help a chef with a math problem and get cooking tips in return? Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
 
